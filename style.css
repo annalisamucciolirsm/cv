@@ -1,0 +1,57 @@
+html {font-size: 100%;} /*16px*/
+body {
+    font-family: helvetica, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.35;
+    color:#303030
+}
+table {
+    padding: 20px;
+}
+#foto-cv {
+    width: 200px;
+}
+h1 {
+    font-weight: 700;
+    font-size: 48.83px;
+    line-height: 1;
+    margin: 0;
+}
+h2 {
+    font-size: 39.06px;
+    line-height: 1;
+}
+h3 {
+    font-size: 31.25px;
+    line-height: 1;
+    margin-bottom: 10px;
+}
+h4 {
+    font-size: 25.00px;
+    line-height: 1;
+    margin-bottom: 0;
+}
+td {
+    font-size: 16px;
+    vertical-align: top;
+}
+.td-colonna1 {
+    font-weight: 200;
+    font-size: 16px;
+    padding-right: 20px;
+}
+.linea {
+    border-bottom: #d4d4d4 1px solid;
+}
+td {
+    padding-top: 10px;
+}
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0px;
+}
+#intestazione {
+    vertical-align: middle;
+}
